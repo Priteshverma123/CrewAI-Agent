@@ -6,9 +6,9 @@ An intelligent question classification system powered by CrewAI and Streamlit th
 
 ## 📸 Demo Screenshots
 
-| Text Classification | Excel Processing |
+| Image Classification |Text Processing |
 |-------------------|------------------|
-| ![Text Input Demo](images/demo/output2.png) | ![Excel Processing](images/demo/output3.png) |
+| ![Text Input Demo](images/demo/ouput2.png) | ![Excel Processing](images/demo/output3.png) |
 
 ## 🚀 Features
 
@@ -287,3 +287,5 @@ If you encounter any issues or have questions:
 ---
 
 **Happy Classifying! 🎯**
+
+
